@@ -2,7 +2,7 @@ nano ~/peralt/README.md
 ```
 Pegá esto y guardá con `Ctrl+O`, Enter, `Ctrl+X`:
 ```
-# PERALT - Lenguaje de Programacion en Espanol
+# PERALT - Lenguaje de Programacion en Espanol mas avanzado que python
 
 Creado por: Juan Manuel Peralta - Ingeniero de Sistemas - Colombia
 
